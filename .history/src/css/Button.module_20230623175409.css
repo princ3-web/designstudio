@@ -1,0 +1,11 @@
+@import './App.module.css';
+
+.button{
+    padding-inline: 1.5rem;
+    padding-block: 0.5rem;
+    border-radius: 3rem;
+    background-color: var(--gray-300);
+    color: var(--gray0)
+    width: fit-content;
+    font-size: 20px;
+}

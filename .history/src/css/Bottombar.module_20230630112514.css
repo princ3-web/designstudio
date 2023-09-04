@@ -1,0 +1,16 @@
+.bottombar{
+    displa
+    background-color: var(--gray-200);
+    height: 20rem;
+    width: 100%;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,9 @@
+.button{
+    padding-inl: 1rem;
+    padding-block: 1rem;
+    margin-block: 1rem;
+    border-radius: 3rem;
+    background-color: var(--gray-300);
+    width: fit-content;
+
+}

@@ -1,0 +1,18 @@
+:root {
+    bg-neutral-50	background-color: rgb(250 250 250);
+    bg-neutral-100	background-color: rgb(245 245 245);
+    bg-neutral-200	background-color: rgb(229 229 229);
+    bg-neutral-300	background-color: rgb(212 212 212);
+    bg-neutral-400	background-color: rgb(163 163 163);
+    bg-neutral-500	background-color: rgb(115 115 115);
+    bg-neutral-600	background-color: rgb(82 82 82);
+    bg-neutral-700	background-color: rgb(64 64 64);
+    bg-neutral-800	background-color: rgb(38 38 38);
+    bg-neutral-900	background-color: rgb(23 23 23);
+    bg-neutral-950	background-color: rgb(10 10 10);
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }

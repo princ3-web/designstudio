@@ -1,0 +1,10 @@
+.boxFull {
+  width: 100%;
+  background-color: var(--gray-200);
+}
+.boxMedium {
+  width: 60%;
+}
+.boxSmall {
+  width: 30%;
+}

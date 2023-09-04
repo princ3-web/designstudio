@@ -1,0 +1,36 @@
+@import './App.module.css';
+
+.text14 {
+  font-size: 14px;
+}
+.text16 {
+  font-size: 16px;
+}
+.text18 {
+  font-size: 18px;
+}
+.text24 {
+  font-size: 24px;
+}
+.text30 {
+  font-size: 30px;
+}
+.text36 {
+  font-size: 36px;
+}
+
+.textLight {
+  color: var(--gray-100);
+}
+
+.textDark {
+  color: var(--gray-900);
+}
+
+.bold{
+  font-weight: 900;
+}
+
+.underline{
+  border-bottom: 1px solid var();
+}

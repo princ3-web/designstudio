@@ -1,0 +1,38 @@
+.boxFull {
+  box-sizing: border-box;
+  background-size: cover;
+  width: 100%;
+  height: 0%;
+  padding-bottom: 10%;
+  padding-inline: 4rem;
+  padding-block: 6rem;
+
+}
+.boxMedium {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  width: 65%;
+  height: 90%;
+  padding-top: 2rem;
+  padding-inline: 1rem;
+}
+.boxSmall {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  width: 30%;
+  height: 90%;
+  padding-top: 2.5rem;
+  padding-inline: 1rem;
+}
+
+.image {
+  width: 100%;
+  bottom: 0;
+
+}

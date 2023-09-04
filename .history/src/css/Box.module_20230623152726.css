@@ -1,0 +1,11 @@
+.boxFull {
+  width: 100%;
+  heigh
+  background-color: var(--gray-200);
+}
+.boxMedium {
+  width: 60%;
+}
+.boxSmall {
+  width: 30%;
+}

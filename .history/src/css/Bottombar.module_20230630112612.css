@@ -1,0 +1,19 @@
+.bottombar{
+    display: flex;
+    box-sizing: border-box;
+    padding-inline: 4rem;
+    background-color: var(--gray-200);
+    height: 20rem;
+    width: 100%;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    margin-r
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,9 @@
+:root {
+    --gray100: rgb(235, 235, 235);
+    --gray100: rgb(20, 20, 20);
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }

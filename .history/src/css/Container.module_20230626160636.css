@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding-in
+    height: 80vh;
+    width: 100%;
+    background-color: var(--gray-50);
+}

@@ -1,0 +1,6 @@
+.bottombar{
+    position: absolute;
+    background-color: var(--gray-100);
+    height: 20rem;
+    width: 100%;
+}

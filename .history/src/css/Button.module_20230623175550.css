@@ -1,0 +1,16 @@
+@import './App.module.css';
+
+.button{
+    padding-inline: 1.5rem;
+    padding-block: 0.5rem;
+    border-radius: 3rem;
+    background-color: var(--gray-800);
+    color: var(--gray-100);
+    width: fit-content;
+    font-size: 20px;
+}
+
+.button:hover{
+    background-color: var(--gray-700);
+    cursor: pointer;
+}

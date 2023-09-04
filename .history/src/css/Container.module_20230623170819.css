@@ -1,0 +1,7 @@
+.container{
+
+    justify-content: space-around;
+    height: 80vh;
+    width: 100%;
+    background-color: var(--gray-50);
+}

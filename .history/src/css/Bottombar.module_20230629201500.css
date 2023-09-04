@@ -1,0 +1,10 @@
+.bottombar{
+    background-color: var(--gray-200);
+    height: 20rem;
+    width: 100%;
+}
+
+.column{
+    display: flex;
+    flex
+}
