@@ -6,7 +6,11 @@ import BoxSmall from "../components/BoxSmall";
 import Button from "../components/Button";
 import image0 from "../assets/images/image0.webp";
 import image1 from "../assets/images/image1.webp";
+
 import background0 from "../assets/images/background0.webp";
+import background1 from "../assets/images/background1.webp";
+import background2 from "../assets/images/background2.webp";
+import background3 from "../assets/images/background3.webp";
 import background4 from "../assets/images/background4.webp";
 import textStyles from "../css/Text.module.css";
 import marginStyles from "../css/Margin.module.css";
