@@ -15,7 +15,7 @@ import boxStyles from "../css/Box.module.css";
 const Home = () => {
   return (
     <div>
-      <Container style={{ paddingInline: "0px", height: "100vh" }}>
+      <Container style={{ paddingInline: "0", height: "100vh" }}>
         <BoxFull backgroundImage={background4}>
           <div className={[textStyles.text42, textStyles.light, textStyles.bold].join(" ")}>
             Build stunning websites. Simplified for you.

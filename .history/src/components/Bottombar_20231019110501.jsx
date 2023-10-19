@@ -20,7 +20,20 @@ const Bottombar = () => {
   return (
     <div className={bottombarStyles.bottombar}>
       <div className={bottombarStyles.links}>
-   
+        {links.map((item) => (
+          <div className={bottombarStyles.column}>
+            <div
+              className={[bottombarStyles.category, textStyles.bold, marginStyles.bottom1rem, textStyles.text14].join(
+                " "
+              )}
+            >
+              {item.category}
+            </div>
+            {item.elements.map((i) => (
+              <div className={[bottombarStyles.element, textStyles.text12].join(" ")}>{i}</div>
+            ))}
+          </div>
+        ))}
       </div>
       <div className={bottombarStyles.socialLinks}>
         <div className={[bottombarStyles.socialTitle, textStyles.text14, textStyles.bold].join(" ")}>Reach us on social media</div>
